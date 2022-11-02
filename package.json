@@ -1,0 +1,28 @@
+{
+	"name": "hendra-web-server",
+	"version": "1.0.0",
+	"description": "hendra web server dicoding",
+	"main": "index.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/hendraakh83/hendra-web-server-dicoding.git"
+	},
+	"keywords": [
+		"nodejs",
+		"web-server",
+		"javascript",
+		"hendra"
+	],
+	"author": "hendraakh83",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/hendraakh83/hendra-web-server-dicoding/issues"
+	},
+	"homepage": "https://github.com/hendraakh83/hendra-web-server-dicoding#readme",
+	"dependencies": {
+		"@hendra/hendra": "^20.2.2"
+	}
+}
